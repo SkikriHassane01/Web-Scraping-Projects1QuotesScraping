@@ -12,7 +12,4 @@ A quick and simple Python game that challenges you to guess the author of a rand
 2. **Start the game**:  
    streamlit run app.py
 
-## License
-
-Licensed under the MIT License.
 
